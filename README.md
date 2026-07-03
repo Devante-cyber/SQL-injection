@@ -1,5 +1,5 @@
 # SQL-injection
-Perform/Prevent error-based and blind SQL injection
+Perform SQL injection
  
  Task 1: Perform error-based SQL injection
 
